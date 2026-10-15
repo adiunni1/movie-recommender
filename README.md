@@ -2,10 +2,8 @@
 
 A head-to-head experiment comparing three recommendation approaches on the
 [MovieLens](https://grouplens.org/datasets/movielens/) dataset, built to test one
-specific question:
-
-> **Does adding behavioral signal and content features actually beat a plain
-> star-rating model — or is that just something people say?**
+specific question, **Does adding behavioral signal and content features actually beat a plain
+>  star-rating model — or is that just something people say?**
 
 Rather than building one recommender, this project trains three on the same
 data and measures them against each other:
